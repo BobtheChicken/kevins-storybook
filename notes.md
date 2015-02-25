@@ -8,13 +8,13 @@ A BRIEF HISTORY OF TIME
 at the very beginning, there were 4 races: humans, angels, demons, spirits
 
 humans: live up to 80 years, really damn smart and innovative
-angels: they have wings, born with op magic skills. these are not good guys and have no connection to god.
-demons: wings, op speed & agility. not bad guys.
-spirits: blink in and out of existence a lot, they are incredibly op but they r derps
+angels: they have wings, born with op magic skills. *these are not good guys, they are just a race*
+demons: wings, op speed & agility. *not bad guys, just a race*
+spirits: blink in and out of existence a lot, they are incredibly op but no one can tell them what to do so they just kinda troll around
 
 a while later, the big three were founded: the ninja church, the institution, the monks
 
-ninja church: believed in divine punishment, and follow the way of the world. train in art of ninja.
+ninja church: so this is the holy church. they are also ninjas cause ninjas are cool. the church people excel in anti-magic via cutting off vital magic conductor points in the body. they are incredibly physically trained, because as part of their pilgrimage to seek god they work really hard. the church's motto is to follow the way of the world, and to leave everything to god's will.
 
 instution: believed in equivalent exchange, and taking advantage of the way of the world.
 
