@@ -88,6 +88,35 @@ pillars: these are the key to venturing into the spirit realm above. The path st
 Spirit Hunt:
 	so basically once the group talks to the panda spirit, they know about the existence of other spirits. statues on Senjokan island represent the spirits that the group must locate to activate the portal. theres about ~10 spirits, and then the final spirit, Yamaterasu.
 
+
+
+
+
+
+SIDE CHARACTERS:
+
+	pure power girl's grandpa who is a sensei in some technique
+
+	slightly older dude who is the successor to some op magic. this guys a derp
+
+	slightly older adventurer guy w/ long white hair. he's a cool dude, respects the power of the main group. he has 2 guys who help him and they are also finding spirits.
+
+	the heads of the church, the institute, and the monks are all childhood friends. they are all really pro and know what they are doing.
+	Institude head guy: he knows strat guy from before divine war. they spoke as equals when instute head was just a commander, and strat guy was doing his old invasion stuff.
+
+	head of monks: was shonen's father's best friend. this guy continued on the dreams of shonen's father, and is the main engineer of the Giant Moving Mechanical Factory.
+
+	the five brothers of senyuu. they all rank really high in demon structure.
+
+	nice looking woman a few years older. friend of shonen guy acts like older sister. works in taro city fashion district.
+
+	demon shogun: ruler of everything. senyuu's dad. you can see the battle scars in his eyes. this guy is pro.
+
+
+
+
+
+
 class: strategist mage
 strategy guy who wears a hoodie and looks badass. calm and collected. when he was a kid, he lived in a poor city in the north (this is before divine war, so world is a mess cause the demons aren’t governing anything yet.). parents were assassinated when he was 5. he killed the assassin with his own gun. he sweet talked and took up a team of rebels. he is in a mech suit stolen from the monks, so they don’t know he is a kid. he leads the rebellion, invades the church of ninja, invade spirit transportations, invade the monk mobile factories of course, brought everyone under him for a year. when divine war came down, he dissapeared as the whole district was wiped out. he was still only 7. he escaped and went into hiding.
 	gameplay is based on timings and working as a team. change the world in certain radius (buff area, hot area, cold area), to help each teammate.
@@ -104,7 +133,7 @@ little girl w/ pink hair like the person from senyuu. wears a huge jacket that c
 	no mana, based off of combo instead
 
 class: pure power mage
-girl with long red hair. grandpa is the leader of pmt art. father was a high mage in the Institution. He was respected for having the finest control over every part of magic. He died by being overwhelmed by over 200 ninjas. His last words on deathbed: *weakly smiles* “i realize now... even with absolute control, i am simply human. i can never reach the pure power of an angel or spirit.” girl: *crying*“i-i’ll do it. i’ll conquer all the power in the world for you, dad”. dad: “thank you, [name]”. then he died. she then set off on a quest for the ultimate power.
+girl with long red hair. grandpa is the leader of pmt art. father was a high mage in the Institution. He was respected for having the finest control over every part of magic. He died by being overwhelmed by over 200 ninjas. His last words on deathbed: *weakly smiles* “i realize now... even with absolute control, i am simply human. i can never reach the pure power of an angel or spirit.” girl: *crying*“i-i’ll do it. i’ll conquer all the power in the world for you, dad”. dad: *smiles*. then he died. she then set off on a quest for the ultimate power.
 	gameplay: pure power. overpower enemies by chaining combinations of spells together and never letting them recover.
 	uses mana.
 
